@@ -1,0 +1,30 @@
+1)What is Deep Learning ?
+A)Deep Learning is a branch of Artificial Intelligence that teaches computers to learn from large amounts of data using neural networks. It mimics how the human brain processes information. DL is used for tasks like image recognition, speech understanding, and even detecting forest fires from satellite images.
+
+2)What is a Neural Network and its Types?
+A) A Neural Network is a system of algorithms that attempts to recognize patterns in data by mimicking the structure of the human brain. It consists of layers of nodes (neurons) that process data.
+
+Types of Neural Networks:
+
+Feedforward Neural Networks (FNN) – Basic type, information flows in one direction.
+
+Convolutional Neural Networks (CNN) – Mostly used for image-related tasks.
+
+Recurrent Neural Networks (RNN) – Good for sequence data like time series or language.
+
+Generative Adversarial Networks (GANs) – Used to generate new data like images or audio.
+
+3)What is CNN in Simple Words?
+A) CNN stands for Convolutional Neural Network. It is a type of neural network that helps computers understand images. It looks at small parts of the image, finds patterns like shapes or colors, and then combines that information to figure out what’s in the picture. CNNs are great for tasks like detecting forest fires from satellite images.
+
+4) Short Notes About the Pipeline Discussed in Lecture:
+A) Data Collection: Gather satellite images or sensor data from forest areas.
+
+Preprocessing: Resize images, normalize values, remove noise.
+
+Model Training: Use CNN to train the system with labeled data (fire / no fire).
+
+Testing: Evaluate the model on unseen data to check accuracy.
+
+Deployment: Integrate the model into a system that can alert when fire is detected.
+
