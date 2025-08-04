@@ -42,15 +42,20 @@ Forest fires are among the most devastating natural disasters, threatening the e
 
 ## 📁 Project Structure
 
+
+<details>
+<summary>Click to view</summary>
+
+```bash
 forest-fire-detection/
-│
-├── dataset/ # Fire and No Fire images
-├── model/ # Saved model file (.h5)
-├── app.py # Streamlit app script
-├── training.ipynb # Model training notebook
-├── utils.py # Helper functions (preprocessing, prediction, etc.)
-├── requirements.txt # Required dependencies
-└── README.md # Project overview
+├── dataset/                  # Folder containing fire and no-fire image datasets
+├── model/                    # Trained model file (e.g., model.h5)
+├── app.py                    # Streamlit app script
+├── training.ipynb            # Jupyter notebook for model training
+├── utils.py                  # Utility functions (preprocessing, prediction, etc.)
+├── requirements.txt          # Python dependencies
+└── README.md                 # Project documentation
+
 
 
 ---
