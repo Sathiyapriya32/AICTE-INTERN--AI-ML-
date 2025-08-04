@@ -60,7 +60,7 @@ forest-fire-detection/
 
 1. **Clone the repository:**
    ```bash
-   git clone https://github.com/your-username/forest-fire-detection.git
+   git clone 
    cd forest-fire-detection
 
 📊 Model Performance
