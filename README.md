@@ -56,7 +56,7 @@ forest-fire-detection/
 ├── requirements.txt          # Python dependencies
 └── README.md                 # Project documentation
 
-</details> ```
+```
 
 ---
 
