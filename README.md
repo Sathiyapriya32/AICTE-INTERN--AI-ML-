@@ -60,7 +60,7 @@ forest-fire-detection/
 
 1. **Clone the repository:**
    ```bash
-   git clone 
+   git clone https://github.com/Sathiyapriya32/AICTE-INTERN--AI-ML-.git
    cd forest-fire-detection
 
 📊 Model Performance
