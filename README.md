@@ -42,10 +42,6 @@ Forest fires are among the most devastating natural disasters, threatening the e
 
 ## 📁 Project Structure
 
-
-<details>
-<summary>Click to view</summary>
-
 ```bash
 forest-fire-detection/
 ├── dataset/                  # Folder containing fire and no-fire image datasets
